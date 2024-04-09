@@ -5,3 +5,7 @@ function add(a, b) {
 function multiple(x, y) {
   return x * y;
 }
+
+function difference(c, d) {
+  return c - d;
+}
