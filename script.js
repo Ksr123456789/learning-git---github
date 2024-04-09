@@ -12,4 +12,5 @@ function difference(c, d) {
 
 function newfeatureAdd() {
   console.log(`this is a new feature`);
+  console.log(`new feature A added`);
 }
