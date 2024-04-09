@@ -9,3 +9,7 @@ function multiple(x, y) {
 function difference(c, d) {
   return c - d;
 }
+
+function newfeatureAdd() {
+  console.log(`this is a new feature`);
+}
