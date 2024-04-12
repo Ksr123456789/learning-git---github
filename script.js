@@ -24,3 +24,8 @@ function newfeatureAddbbb() {
   console.log(`this is a new feature`);
   console.log(`new feature bbb added`);
 }
+
+function newfeatureAddC() {
+  console.log(`this is a new feature`);
+  console.log(`new feature c added`);
+}
